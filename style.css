@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #111827;
+}
+
+.container {
+    max-width: 1536px;
+    margin: 0 auto;
+    padding: 0 256px;
+}
+
+.header {
+    padding: 24px 0;
+}
